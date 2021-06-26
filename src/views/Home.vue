@@ -40,7 +40,7 @@
               </template>
               <template v-slot:default="dialog">
                 <v-card>
-                  <v-toolbar color="primary" dark
+                  <v-toolbar color="red" dark
                     >Popunite prazna polja</v-toolbar
                   >
                   <v-card-text>
